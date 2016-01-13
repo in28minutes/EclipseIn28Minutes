@@ -4,6 +4,10 @@ Eclipse Tutorial for Beginners - From in28Minutes
 #### NOTE : If you are using mac use cmd instead of Ctrl
 #### NOTE : In Windows, use Windows -> Preferences for Preferences
 
+##Installing Tools
+- PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
+- https://www.youtube.com/watch?v=DLPjCZ5n_SM
+
 # Video & Course
 Coming Soon.
 
